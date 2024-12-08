@@ -1,4 +1,14 @@
-I work at TikTok <img src='./images/tiktok.png' style='width: 6em;'> as a research scientist now in Singapore. 
+{% if site.google_scholar_stats_use_cdn %}
+{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
+{% else %}
+{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
+{% endif %}
+{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
+
+I am currently a third-year Ph.D. student in the [Department of Computer Science and Technology](https://www.cs.tsinghua.edu.cn/) at [Tsinghua University](https://www.tsinghua.edu.cn/), co-advised by [Prof. Lifeng Sun](https://thu.media/team) and [Prof. Ke Xu](http://thucsnet.com/index.php/xuke/). Before that, I received my bachelor degree from the [School of Computer Science & Technology](https://cs.hust.edu.cn/) at [Huazhong University of Science and Technology](https://www.hust.edu.cn/). My current research focuses on multimedia network streaming, including adaptive video streaming and low-latency live streaming <a href='https://scholar.google.com/citations?user=B6V-OUQAAAAJ'><img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/kalgod/kalgod.github.io/refs/heads/google-scholar-stats/gs_data_shieldsio.json&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+
+
+ work at TikTok <img src='./images/tiktok.png' style='width: 6em;'> as a research scientist now in Singapore. 
 
 I am now working on audio-driven talking face generation, text-to-speech and music generation research. If you are seeking any form of **academic cooperation**, please feel free to email me at [ren.yi@bytedance.com](mailto:ren.yi@bytedance.com). We are hiring interns!
 
