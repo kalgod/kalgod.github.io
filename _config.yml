@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Jiahui Chen (陈家辉)"
+title                    : "Jiahui Chen"
 description              : "Ph.D. Student at Tsinghua University"
 repository               : "kalgod/kalgod.github.io"
 google_scholar_stats_use_cdn : true
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Jiahui Chen (陈家辉)"
+  name             : "Jiahui Chen"
   avatar           : "images/android-chrome-512x512.png"
   # bio              : "Tsinghua University"
   location         : "Beijing, China"
