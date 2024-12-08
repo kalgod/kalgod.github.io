@@ -19,12 +19,23 @@ layout: compress
     
       <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
         {% if page.title %}<meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
+        
         <div class="page__inner-wrap">
           <section class="page__content" itemprop="text">
             {{ content }}
           </section>
         </div>
       </article>
+      
+      <!-- 添加统计地图的代码块 -->
+      <div align="center" style="margin:auto;padding-top:10px">
+        <div style="width:15%">
+          <script type="text/javascript" id="clstr_globe"
+            src="//cdn.clustrmaps.com/globe.js?d=SqH4OAb_1Q3pR4cqYLaqrZds4Y-qdc7pCnyFR-xHlTI"></script>
+        </div>
+      </div>
+      <!-- 结束地图代码块 -->
+
     </div>
 
     {% include scripts.html %}
