@@ -7,7 +7,7 @@
 <div class='paper-box-text' markdown="1">
 
 [Enhanced Bandwidth Measurement and Robust Rate Adaptation for Low-latency Live Streaming](../../pdf/INFOCOM25-AAR.pdf) \\
-**Jiahui Chen**, Yiding Yu, Libo Wang, Ying Chen, Tianchi Huang, Lifeng Sun
+**Jiahui Chen**, <font color=red>Yiding</font>, <strong>Libo</strong>, Ying Chen, Tianchi Huang, Lifeng Sun
 
 [**Project**](https://speechresearch.github.io/fastspeech/) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
 
