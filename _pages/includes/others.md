@@ -1,6 +1,6 @@
 
 # 📖 Educations
-- *2022.09 - Now*, Ph.D., Department of Computer Science and Technology, Tsinghua University.
+- *2022.09 - Present*, Ph.D., Department of Computer Science and Technology, Tsinghua University.
 - *2018.09 - 2022.07*, Undergraduate, School of Computer Science & Technology, Huazhong University of Science and Technology.
 
 <!-- # 💬 Invited Talks
