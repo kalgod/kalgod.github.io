@@ -1,7 +1,7 @@
 
 # 📖 Educations
 - *2022.09 - Present*, Ph.D., Department of Computer Science and Technology, Tsinghua University.
-- *2018.09 - 2022.07*, Undergraduate, School of Computer Science & Technology, Huazhong University of Science and Technology.
+- *2018.09 - 2022.07*, Undergraduate, School of Computer Science and Technology, Huazhong University of Science and Technology.
 
 <!-- # 💬 Invited Talks
 - *2022.02*, Hosted MLNLP seminar \| [\[Video\]](https://www.bilibili.com/video/BV1wF411x7qh)
