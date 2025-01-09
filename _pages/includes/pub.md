@@ -1,6 +1,6 @@
 # 📝 Publications 
 ## Conference Papers
-[Enhanced Bandwidth Measurement and Robust Rate Adaptation for Low-latency Live Streaming](../../pdf/INFOCOM25-AAR.pdf) \
+[Enhanced Bandwidth Measurement and Robust Rate Adaptation for Low-latency Live Streaming](../../pdf/m54421-chen final.pdf) \
 <span style="color: red;">Jiahui Chen</span>, Yiding Yu, Libo Wang, Ying Chen, Tianchi Huang, Lifeng Sun \
 INFOCOM 2025, <span style="color: blue;">CCF-A</span>
 
