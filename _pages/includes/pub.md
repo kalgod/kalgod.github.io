@@ -8,6 +8,10 @@ INFOCOM 2025
 <span style="color: red;">Jiahui Chen</span>, Bo Peng, Lianchen Jia, Zeyu Zhang, Tianchi Huang, Lifeng Sun \
 ICLR 2026
 
+[Decoupling Defense Strategies for Robust Image Watermarking](../../pdf/CVPR26_AdvMark.pdf) \
+<span style="color: red;">Jiahui Chen</span>, Zehang Deng, Zeyu Zhang, Chaoyang Li, Lianchen Jia, Lifeng Sun \
+CVPR 2026
+
 ## Journal Papers
 [FedDef: Defense Against Gradient Leakage in Federated Learning-based Network Intrusion Detection Systems](../../pdf/TIFS23-FedDef.pdf) \
 <span style="color: red;">Jiahui Chen</span>, Yi Zhao, Qi Li, Xuewei Feng, Ke Xu \
