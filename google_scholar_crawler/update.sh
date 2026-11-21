@@ -4,6 +4,9 @@
 # 用法: bash update.sh          (crontab: 0 8 * * * bash /home/cjh/work/kalgod.github.io/google_scholar_crawler/update.sh >> /home/cjh/work/scholar_update.log 2>&1)
 set -e
 export GOOGLE_SCHOLAR_ID="B6V-OUQAAAAJ"
+# cron 不加载 ~/.bashrc，Google Scholar 必须走代理
+export http_proxy="http://127.0.0.1:7890"
+export https_proxy="http://127.0.0.1:7890"
 REPO="https://github.com/kalgod/kalgod.github.io.git"
 BRANCH="google-scholar-stats"
 SRC_DIR="$(cd "$(dirname "$0")" && pwd)"
