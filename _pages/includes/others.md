@@ -1,7 +1,7 @@
 
 # 📖 Educations
 - *2018.09 - 2022.07*, Undergraduate, School of Computer Science and Technology, Huazhong University of Science and Technology.
-- *2022.09 - Present*, Ph.D., Department of Computer Science and Technology, Tsinghua University.
+- *2022.09 - 2027.07*, Ph.D., Department of Computer Science and Technology, Tsinghua University.
 
 <!-- # 💬 Invited Talks
 - *2022.02*, Hosted MLNLP seminar \| [\[Video\]](https://www.bilibili.com/video/BV1wF411x7qh)
@@ -11,4 +11,5 @@
 
 # 💻 Internships
 - *2023.06 - 2024.07*, Alibaba, Hangzhou.
-- *2025.09 - Present*, Kuaishou, Beijing.
+- *2025.09 - 2026.4*, Kuaishou, Beijing.
+- *2026.07 - Present*, JingDong, Beijing.
