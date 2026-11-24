@@ -12,4 +12,5 @@
 # 💻 Internships
 - *2023.06 - 2024.07*, Alibaba, Hangzhou.
 - *2025.09 - 2026.4*, Kuaishou, Beijing.
+- *2026.04 - 2026.7*, Tencent, Beijing.
 - *2026.07 - Present*, JingDong, Beijing.
